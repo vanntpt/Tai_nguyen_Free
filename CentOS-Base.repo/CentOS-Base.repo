@@ -1,4 +1,4 @@
-# /etc/yum.repos.d/CentOS-Base.repo
+# /etc/yum.repos.d/CentOS-Base.repo. Xem them tai https://dataonline.vn/centos-7-cannot-find-a-valid-baseurl-for-repo/
 
 [base]
 name=CentOS-$releasever - Base
